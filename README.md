@@ -2,7 +2,6 @@
 
 Open-source biometric platform for developers. Face recognition, document processing, liveness detection, video analytics, and identity verification — as simple as an API call.
 
-**[Documentation](https://docs.openbiometrics.dev)** | **[Demo](https://demo.openbiometrics.dev)** | **[API Reference](https://docs.openbiometrics.dev/api/face-detection/)**
 
 ## Features
 
